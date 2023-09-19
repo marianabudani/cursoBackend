@@ -1,0 +1,9 @@
+{
+  "name": "cursoBackend",
+  "version": "1.0.0",
+  "description": "Proyecto para el curso de Backend de Coderhouse",
+  "main": "index.js",
+  "repository": "https://github.com/marianabudani/cursoBackend.git",
+  "author": "Mariana Budani <mariana.budani@gmail.com>",
+  "license": "MIT"
+}
